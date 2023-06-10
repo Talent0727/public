@@ -14,6 +14,7 @@ needs from use cases and requirements from multiple network operators.
 
 ## Contributing to OpenConfig
 
+
 This repository is primarily for publishing the models, documents, and other
 material developed by the OpenConfig operators group.
 
