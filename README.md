@@ -12,8 +12,6 @@ consistent set of vendor-neutral data models (written in
 [YANG](http://datatracker.ietf.org/doc/rfc6020/)) based on actual operational
 needs from use cases and requirements from multiple network operators.
 
-## Contributing to OpenConfig
-
 
 This repository is primarily for publishing the models, documents, and other
 material developed by the OpenConfig operators group.
