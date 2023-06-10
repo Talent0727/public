@@ -5,7 +5,6 @@
 [![yanglint](https://storage.googleapis.com/openconfig/compatibility-badges/openconfig-public:yanglint.svg)](https://storage.googleapis.com/openconfig/compatibility-badges/openconfig-public:yanglint.html)
 
 # OpenConfig
-
 [**OpenConfig**](http://www.openconfig.net) is a collaborative effort by network
 operators to develop programmatic interfaces and tools for managing networks in
 a dynamic, vendor-neutral way.  OpenConfig’s initial focus is on compiling a
