@@ -16,7 +16,6 @@ needs from use cases and requirements from multiple network operators.
 
 This repository is primarily for publishing the models, documents, and other
 material developed by the OpenConfig operators group.
-
 For information about how to contribute to OpenConfig models, please
 see [External Submissions to OpenConfig](doc/contributions-guide.md).
 
